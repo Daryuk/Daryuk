@@ -6,15 +6,14 @@ Je suis actuellement étudiant en cybersécurité et j'aime me renseigner sur to
 
 ## Compétences et Technologies
 
-- **Langages et Frameworks :**
-  - HTML
-  - CSS
-  - React
-  - JavaScript
-  - PHP
-  - NextJS
-  - NodeJS
-  - TailwindCSS
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![NextJS](https://img.shields.io/badge/NextJS-000000?style=flat&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 ## Projets
 
@@ -28,10 +27,15 @@ Mon objectif principal est de décrocher mon Mastère ESI. J'aime beaucoup la te
 
 ## Me Contacter
 
-- **Email :** [EMAIL](mailto:contact@daryuk.eu)
-- **Discord :** Daryuk
-- **X :** [X](https://x.com/daryuukk)
-- **Instagram :**[Instagram](https://www.instagram.com/da.ryukk/)
+[![Email](https://img.shields.io/badge/Email-Daryuk-blue?style=flat&logo=gmail&logoColor=white)](mailto:contact@daryuk.eu)
+[![Discord](https://img.shields.io/badge/Discord-VotrePseudo%231234-7289DA?style=flat&logo=discord&logoColor=white)](Daryuk)
+[![Twitter](https://img.shields.io/badge/X-VotreProfil-black?style=flat&logo=twitter)](https://x.com/daryuukk)
+[![Instagram](https://img.shields.io/badge/Instagram-VotreProfil-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/da.ryukk/)
+
+## Statistiques GitHub
+
+![Daryuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daryuk&show_icons=true&hide_title=true&hide=prs&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daryuk&layout=compact&theme=radical)
 
 ## Certifications
 
