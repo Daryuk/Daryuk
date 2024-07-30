@@ -28,9 +28,9 @@ Mon objectif principal est de décrocher mon Mastère ESI. J'aime beaucoup la te
 ## Me Contacter
 
 [![Email](https://img.shields.io/badge/Email-Daryuk-blue?style=flat&logo=gmail&logoColor=white)](mailto:contact@daryuk.eu)
-[![Discord](https://img.shields.io/badge/Discord-VotrePseudo%231234-7289DA?style=flat&logo=discord&logoColor=white)](Daryuk)
-[![Twitter](https://img.shields.io/badge/X-VotreProfil-black?style=flat&logo=twitter)](https://x.com/daryuukk)
-[![Instagram](https://img.shields.io/badge/Instagram-VotreProfil-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/da.ryukk/)
+[![Discord](https://img.shields.io/badge/Daryuk%231234-7289DA?style=flat&logo=discord&logoColor=white)](Daryuk)
+[![Twitter](https://img.shields.io/badge/X-Daryuukk-black?style=flat&logo=twitter)](https://x.com/daryuukk)
+[![Instagram](https://img.shields.io/badge/Instagram-da.ryukk-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/da.ryukk/)
 
 ## Statistiques GitHub
 
